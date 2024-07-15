@@ -1,5 +1,6 @@
 # API-FuruiFukuInc
-
+Crear tablas de BD
+Ejecutar queries que se encuentran en el archivo BD.sql del proyecto
 Implementar API en servidor IIS
 Los archivos compilados(todo lo que este dentro de bin/release/net8.0/publish) deben ponerse en la ruta del disco local C inetpub/wwwroot/(crear carpeta para la api)
 
